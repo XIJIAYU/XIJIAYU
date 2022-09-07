@@ -6,9 +6,9 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-
-[![Linkedin: jiayuxi](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiayu-xi-758262228)](https://www.linkedin.com/in/jiayu-xi-758262228)
+<!--[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+-->
+[![Linkedin: jiayuxi](https://img.shields.io/badge/-jiayuxi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiayu-xi-758262228)](https://www.linkedin.com/in/jiayu-xi-758262228)
 <!--[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 ![XIJIAYU's GitHub stats](https://github-readme-stats.vercel.app/api?username=XIJIAYU&show_icons=true&theme=radical)
@@ -16,17 +16,11 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const me = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  code: [Javascript,  HTML, CSS,  Python, Java],
+  tools: [Matlab, mySQL, PostgreSQL, WEKA, KNIME, RapidMiner, Neural Network],
+  
 }
 ```
 
