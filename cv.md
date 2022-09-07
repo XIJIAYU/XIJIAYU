@@ -3,7 +3,7 @@
 - University of Southern California, 2021-2023
 ***
 ### ACADEMIC EXPERIENCES
-#### Weather Search System
+#### <a> Weather Search System </a>
 - Use Flask as the back-end framework, and build the back end based on Python
 - Deploy the project in the cloud on Google Cloud App Engine
 - Use Google API and Tomorrow.io API to get the weather information, and use HighCharts Service to draw charts
