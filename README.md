@@ -40,7 +40,7 @@ const Jiayu = {
 - Built the web page based on Flask and Bootstrap; displayed the map data with Echarts to present a vivid and interactive data visualization chart
 - Realized the map’s functions including distance and area measurement, path analysis and Query
 ***
-#### 🔔 <a href= " https://github.com/XIJIAYU/coursear-test">Neural Network Handwriting Recognition</a>
+#### 🔔 <a href= "https://github.com/XIJIAYU/coursear-test">Neural Network Handwriting Recognition</a>
 -  Modeled a four-layer neural network 
 -  Trained over a dataset containing images of alphabets
 -  Required frameworks are：Pandas, sklearn
