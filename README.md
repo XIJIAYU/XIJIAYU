@@ -39,6 +39,11 @@ const Jiayu = {
 - Mastered the use of Supermap; drew Thematic map with SuperMap iDesktop which was published on the iServer; conducted secondary development based on iClient
 - Built the web page based on Flask and Bootstrap; displayed the map data with Echarts to present a vivid and interactive data visualization chart
 - Realized the map’s functions including distance and area measurement, path analysis and Query
+***
+#### 🔔 Neural Network Handwriting Recognition
+-  Modeled a four-layer neural network 
+-  Trained over a dataset containing images of alphabets
+-  Required frameworks are：Pandas, sklearn
 </br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
